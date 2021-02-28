@@ -17,7 +17,7 @@ module.exports = {
     },
     
     eightball: {
-     questionreq: "Lütfen bir soru girin. `+8ball soru`",
+     questionreq: "Lütfen bir soru girin. `8ball soru`",
      answers_one: "Evet!",
      answers_two: "Hayır...",
      answers_three: "Ne?",
@@ -57,7 +57,7 @@ module.exports = {
     },
     
     ban: {
-    userreq: "Lütfen bir kullanıcı belirtin. `+ban kullanıcı sebep`",
+    userreq: "Lütfen bir kullanıcı belirtin. `ban kullanıcı sebep`",
     usernf: "Kullanıcı bulunamadı!",
     usernb: "Yetkilileri yasaklayamam!",
     nreason: "Belirtilmemiş",
@@ -67,7 +67,7 @@ module.exports = {
     },
     
     unban: {
-    idreq: "Bir kullanıcı kimliği girin. `+unban kullanıcı_id`",
+    idreq: "Bir kullanıcı kimliği girin. `unban kullanıcı_id`",
     idreqq: "Bir kullanıcı kimliği girmelisiniz!",
     usernf: "Kullanıcı bulunamadı!",
     succ: "Kullanıcı yasağı kaldırıldı."
@@ -80,7 +80,7 @@ module.exports = {
     
     lang: {
     err: "Bu dil zaten ayarlanmış.",
-    msg: "Lütfen bir dil belirtin. `+lang az/en/es/tr`"
+    msg: "Lütfen bir dil belirtin. `lang az/en/es/tr`"
     }
     
 };
