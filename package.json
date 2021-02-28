@@ -1,0 +1,31 @@
+{
+  "name": "Asuna",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.27.0",
+    "superagent": "^6.0.0",
+    "quick.db": "^7.1.2",
+    "chalk": "^3.0.0",
+    "moment-duration-format": "^2.3.2",
+    "request": "^2.88.0",
+    "dblapi.js": "^2.4.1"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
