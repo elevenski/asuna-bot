@@ -17,7 +17,7 @@ module.exports = {
     },
     
     eightball: {
-     questionreq: "Zəhmət olmasa bir sual daxil edin. `+8ball sual`",
+     questionreq: "Zəhmət olmasa bir sual daxil edin. `8ball sual`",
      answers_one: "Bəli!",
      answers_two: "Yox...",
      answers_three: "Nə?",
@@ -57,7 +57,7 @@ module.exports = {
     }, 
     
     ban: {
-    userreq: "Zəhmət olmasa bir istifadəçi göstərin. `+ban istifadəçi səbəb`",
+    userreq: "Zəhmət olmasa bir istifadəçi göstərin. `ban istifadəçi səbəb`",
     usernf: "İstifadəçi tapılmadı!",
     usernb: "Səlahiyyətlilərə qadağa qoya bilmərəm!",
     nreason: "Dəqiqləşdirilməmiş",
@@ -67,7 +67,7 @@ module.exports = {
     },
     
     unban: {
-    idreq: "Zəhmət olmasa istifadəçi identifikatoru daxil edin. `+unban istifadəçi_id`",
+    idreq: "Zəhmət olmasa istifadəçi identifikatoru daxil edin. `unban istifadəçi_id`",
     idreqq: "Bir istifadəçi ID daxil etməlisiniz!",
     usernf: "İstifadəçi tapılmadı!",
     succ: "İstifadəçi qadağası ləğv edildi."
@@ -80,7 +80,7 @@ module.exports = {
     
     lang: {
     err: "Bu dil artıq qurulub.",
-    msg: "Zəhmət olmasa bir dil göstərin. `+lang az/en/es/tr`"
+    msg: "Zəhmət olmasa bir dil göstərin. `lang az/en/es/tr`"
     }
 
 };
