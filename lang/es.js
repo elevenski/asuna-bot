@@ -17,7 +17,7 @@ module.exports = {
     },
     
     eightball: {
-     questionreq: "Por favor ingrese una pregunta. `+8ball pregunta`",
+     questionreq: "Por favor ingrese una pregunta. `8ball pregunta`",
      answers_one: "Sí!",
      answers_two: "No...",
      answers_three: "Qué?",
@@ -57,7 +57,7 @@ module.exports = {
     },
     
     ban: {
-    userreq: "Por favor especifique una usuario. `+ban usuaria razón`",
+    userreq: "Por favor especifique una usuario. `ban usuaria razón`",
     usernf: "Usuario no encontrado!",
     usernb: "No puedo prohibir a las autoridades!",
     nreason: "Sin especificar",
@@ -67,7 +67,7 @@ module.exports = {
     },
     
     unban: {
-    idreq: "Ingrese un ID de usuario. `+unban usuaria_id`",
+    idreq: "Ingrese un ID de usuario. `unban usuaria_id`",
     idreqq: "Debes ingresar una identificación de usuario!",
     usernf: "Usuario no encontrado!",
     succ: "La usuario ha desbloqueado."
@@ -80,7 +80,7 @@ module.exports = {
     
     lang: {
     err: "Este idioma ya está configurado.",
-    msg: "Especifique un idioma. `+lang az/en/es/tr`"
+    msg: "Especifique un idioma. `lang az/en/es/tr`"
     }
     
 };
